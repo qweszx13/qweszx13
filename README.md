@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Right%Star&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELLCOME%&fontSize=90" />
 
 <!--
 **qweszx13/qweszx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
