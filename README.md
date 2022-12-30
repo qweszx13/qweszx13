@@ -8,18 +8,22 @@
   
   <h2>🛠️私のスキル🛠️</h2>
   
+  <h3>✒️BackStack<h3>
   <img src="https://img.shields.io/badge/Git-3766AB?style=flat-square&logo=Git&logoColor=#F05032"/></a>
   <img src="https://img.shields.io/badge/GitHub-3766AB?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
   <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=JAVA&logoColor=#181717"/></a>
+  <img src="https://img.shields.io/badge/JSP-3766AB?style=flat-square&logo=JSP&logoColor=#181717"/></a>
+  <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>
+  <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/></a>
+  <img src="https://img.shields.io/badge/Oracle DB-3766AB?style=flat-square&logo=Oracle&logoColor=#F80000"/></a><p>
+  <h3>✒️FrontStack<h3>
   <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
   <img src="https://img.shields.io/badge/HTML5-3766AB?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
   <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a>
-  <img src="https://img.shields.io/badge/Sass-3766AB?style=flat-square&logo=Sass&logoColor=#CC6699"/></a>
-  <img src="https://img.shields.io/badge/Tailwind CSS-3766AB?style=flat-square&logo=Tailwind CSS&logoColor=#06B6D4"/></a><p>
-  <img src="https://img.shields.io/badge/Ant Design-3766AB?style=flat-square&logo=Ant Design&logoColor=#0170FE"/></a>
   <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
-  <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/></a>
-  <img src="https://img.shields.io/badge/Oracle DB-3766AB?style=flat-square&logo=Oracle&logoColor=#F80000"/></a>
+  <img src="https://img.shields.io/badge/Sass-3766AB?style=flat-square&logo=Sass&logoColor=#CC6699"/></a>
+  <img src="https://img.shields.io/badge/Tailwind CSS-3766AB?style=flat-square&logo=Tailwind CSS&logoColor=#06B6D4"/></a>
+  <img src="https://img.shields.io/badge/Ant Design-3766AB?style=flat-square&logo=Ant Design&logoColor=#0170FE"/></a>
   <img src="https://img.shields.io/badge/Docker-3766AB?style=flat-square&logo=Docker&logoColor=#2496ED"/></a>
   <img src="https://img.shields.io/badge/Bootstrap-3766AB?style=flat-square&logo=Bootstrap&logoColor=#7952B3"/></a>
   
