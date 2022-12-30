@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WellcomeMyStar&fontSize=90" />
   
-  <h1>🤚Hello, Here is RightStar Wellcome</h1>
+  <h1>🤚Hello, Here is EastStar Wellcome</h1>
   
   <h2>🛠️私のスキル🛠️</h2>
   
