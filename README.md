@@ -25,7 +25,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweszx13&show_icons=true&bg_color=00000000)
   
-  <h2>💫James Gosling が言いました”新しいことに挑戦することを恐れず、失敗にも構わなく挑戦し続け”💫</h2>
+  <h3>💫James Gosling が言いました”新しいことに挑戦することを恐れず、失敗にも構わなく挑戦し続け”💫</h3>
   <h3>💫제임스 고슬링이 말하길 “새로운 일에 도전하는 것을 두려워하지 말고, 실패에 상관없이 계속 도전해야 한다"💫</h3>
   
 </div>
