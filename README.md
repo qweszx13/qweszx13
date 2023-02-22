@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/JSP-3766AB?style=flat-square&logo=JSP&logoColor=#181717"/></a>
   <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=#6DB33F"/></a>
   <img src="https://img.shields.io/badge/Spring Boot-3766AB?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/></a>
-  <img src="https://img.shields.io/badge/Oracle DB-3766AB?style=flat-square&logo=Oracle&logoColor=#F80000"/></a><p>
-  <img src="https://img.shields.io/badge/Ruby-3766AB?style=flat-square&logo=Ruby&logoColor=#F80000"/></a><p>
+  <img src="https://img.shields.io/badge/Oracle DB-3766AB?style=flat-square&logo=Oracle&logoColor=#F80000"/></a>
+  <img src="https://img.shields.io/badge/Ruby-3766AB?style=flat-square&logo=Ruby&logoColor=#F80000"/></a>
   <img src="https://img.shields.io/badge/Ruby on Rails-3766AB?style=flat-square&logo=Ruby on Rails&logoColor=#CC0000"/></a><p>
   <h3>✒️FrontStack<h3>
   <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
