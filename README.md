@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Ruby on Rails-3766AB?style=flat-square&logo=Ruby on Rails&logoColor=#CC0000"/></a><p>
   <h3>✒️FrontStack<h3>
   <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
+    <img src="https://img.shields.io/badge/HTML5-3766AB?style=flat-square&logo=TypeScript&logoColor=#E34F26"/></a>
   <img src="https://img.shields.io/badge/HTML5-3766AB?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
   <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a>
   <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
